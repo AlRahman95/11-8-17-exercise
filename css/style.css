@@ -7,3 +7,25 @@
 html {
   background: lightblue;
 }
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  background: #5e37dd;
+  padding: 15px 5px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+.main-nav-list {
+  display: flex;
+  list-style: none;
+}
+
+.main-nav-list li {
+  margin: 0 10px;
+}
