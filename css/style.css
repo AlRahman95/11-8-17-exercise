@@ -29,3 +29,13 @@ html {
 .main-nav-list li {
   margin: 0 10px;
 }
+
+.banner {
+  text-align: center;
+  padding: 2rem 0;
+  background: darkblue;
+}
+
+h1 {
+  color: white;
+}
